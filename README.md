@@ -140,8 +140,8 @@ Create a `.env` file:
 DATABASE_URL=your_postgresql_connection_string
 JWT_SECRET=your_secret_key
 
-ADMIN_EMAIL=admin@cafe.com
-ADMIN_PASSWORD=admin123
+ADMIN_EMAIL="abc@xyz.com"
+ADMIN_PASSWORD="your-password"
 ```
 
 ## Push the database schema
